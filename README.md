@@ -77,6 +77,10 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 
 The LES3 software is currently a part of my PHD, and therefore I cannot yet make it available for public use.
 
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Software%20Overview%20LES3.png)
+
+*Software Structure of the LES3 Software*
+
 ## Contact Details
 
 If you have any questions, feel free to contact me.
