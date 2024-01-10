@@ -5,6 +5,11 @@ Irradiance on the lunar surface is simulated based on a kepler orbit simulator a
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/LES3Topology.png?raw=true)
 
+## Content
+1. ![Product Features](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#product-features)
+2. ![Environmental Model](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#environmental-model)
+3. ![Contact Details](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#contact-details)
+
 ## Product Features
 
 ➔ Database of 40 space certified solar cells
@@ -41,14 +46,15 @@ Domain-Control
 ➔ Regenerative Fuel Cell and Nuclear Reactor models, as well as NASA SPICE will be integrated into a later
 version
 
-## Contact Details
-
-The LES3 software is currently a part of my PHD, and therefore I cannot yet make it available for public use. If you have any questions, feel free to contact me.
-
-Mail: jan@zuenkler.eu
-
 ## Environmental Model
 
 A part of the LES3 software is a simulator for the environmental conditions on the lunar surface. This software has been developed for the authors Master's Thesis, which covers the development of the simulation software, and a global study with focus on the application of photovoltaic generators on the lunar surface
 
 Master's Thesis: ![Development of a simulator for the operational conditions of photovoltaic power generators on the lunar surface and implications of environmental conditions to photovoltaic generator design and optimisation](https://www.researchgate.net/publication/377111324_Development_of_a_simulator_for_the_operational_conditions_of_photovoltaic_power_generators_on_the_lunar_surface_and_implications_of_environmental_conditions_to_photovoltaic_generator_design_and_optimi)
+
+
+## Contact Details
+
+The LES3 software is currently a part of my PHD, and therefore I cannot yet make it available for public use. If you have any questions, feel free to contact me.
+
+Mail: jan@zuenkler.eu
