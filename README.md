@@ -10,19 +10,39 @@ Irradiance on the lunar surface is simulated based on a kepler orbit simulator a
 ➔ Database of 40 space certified solar cells
 
 ➔ Database of 29 space certified batteries
+
 ➔ Solar cell model including shadowed I(V)-Curve
+
 ➔ Multiple different battery cell Models
+
 ➔ Different solar array tracking modes
+
 ➔ Solar cell thermal model
+
 ➔ EQ-Flux solar cell Degradation model integrated
+
 ➔ Creme96, AE-/AP-8 radiation models and Chandrayaan data based radiation model integrated
+
 ➔ Kepler orbit model
+
 ➔ Planck-spectrum for direct solar, earth albedo & infrared and lunar albedo & infrared irradiance
+
 ➔ 8 DC/DC-Converter topologies built in, including S3R- and Weinberg Converters
+
 ➔ Different control methods built in, including different combinations of FPID-Controllers, MPPT- and (Multi-)
 Domain-Control
+
 ➔ Time-Series and reference-circuit based load model
+
 ➔ Main-BUS-Capacitor model
+
 ➔ Main BUS model allows to simulate multiple interconnected DC BUSes with different voltage levels
+
 ➔ Regenerative Fuel Cell and Nuclear Reactor models, as well as NASA SPICE will be integrated into a later
 version
+
+## Contact Details
+
+The LES3 software is currently a part of my PHD, and therefore I cannot yet make it available for public use. If you have any questions, feel free to contact me.
+
+Mail: jan@zuenkler.eu
