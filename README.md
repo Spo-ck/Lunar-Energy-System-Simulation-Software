@@ -53,25 +53,94 @@ A part of the LES3 software is a simulator for the environmental conditions on t
 
 Master's Thesis: [Development of a simulator for the operational conditions of photovoltaic power generators on the lunar surface and implications of environmental conditions to photovoltaic generator design and optimisation](https://www.researchgate.net/publication/377111324_Development_of_a_simulator_for_the_operational_conditions_of_photovoltaic_power_generators_on_the_lunar_surface_and_implications_of_environmental_conditions_to_photovoltaic_generator_design_and_optimi)
 
+### Software Models
+
+#### Geometrical Simulator
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Geometrical-Simulator.png)
 
 *Geometrical Simulator*
+
+#### Black Body Irradiance Simulator
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Geometrical-Simulator.png)
+
+*Geometrical Simulator*
+
+#### Irradiance Simulator
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance-Simulator.png)
 
 *Irradiance Simulator*
 
+#### Particle Radiation and Solar Cell Degradation Simulator
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Radiation%20Model.png)
+
+*Particle Radiation Model*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Lunar%20Radiation%20Damping%20Field%20Model.png?raw=true)
+
+*Lunar Particle Radiation Damping Model*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Lunar%20Radiation%20Damping%20Field%20Model%202.png?raw=true)
+
+*Lunar Particle Radiation Damping Model*
+
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Particle-Radiation-and-Solar-Cell-degradation-Model.png)
 
 *Particle Radiation and Solar Cell Degradation Model*
+
+#### Thermal and Thermal Control System Model
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Thermal-Model-and-Thermal-Control-System-Model.png)
 
 *Thermal Model and Thermal Control System Model*
 
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Thermal%20Management%20SYSTEM%20MODEL.png?raw=true)
+
+*Thermal Control System Model*
+
+#### Software Structure
+
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Software-Structure-of-the-Environmental-Simulation-Software.png)
 
 *Software Structure of the Environmental Simulation Software*
+
+### Study with focus on the application of Photovoltaics on the lunar surface
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/assets/53335971/1be65d0d-8e96-4441-91e5-84e968f742f9)
+
+*Lunar Irradiance Sankey*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Reviewed%20Cases.png?raw=true)
+
+*Reviewed Cases*
+
+#### Solar Irradiance Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Irradiance%20Lunar%20Surface.png?raw=true)
+
+*Solar Irradiance Progression*
+
+#### Solar Elevation Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Elevation%20Lunar%20Surface.png?raw=true)
+
+*Solar Elevation Progression*
+
+#### Solar Array Mounting and Tracking Systems employing Tracking Systems
+
+##### Solar Incidence Angle Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Array%20Mounting%20and%20Tracking.png?raw=true)
+
+*Solar Incidence Angle Progression employing tracking systems*
+
+##### Solar Cell Degradation Simulation
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/assets/53335971/a6f1f468-623b-4ebc-bc91-2da448a4da62)
+
+*Solar Cell Degradation Simulation*
 
 ## Lunar Energy System Simulation Software
 
