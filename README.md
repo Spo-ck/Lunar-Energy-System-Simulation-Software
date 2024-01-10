@@ -64,12 +64,6 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance.png?raw=true)
 
-*Geometrical Simulator*
-
-#### Black Body Irradiance Simulator
-
-![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance.png?raw=true)
-
 *Black Body Irradiance Simulator*
 
 #### Irradiance Simulator
