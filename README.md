@@ -66,7 +66,29 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 
 *Geometrical Simulator*
 
+#### Black Body Irradiance Simulator
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance.png?raw=true)
+
+*Black Body Irradiance Simulator*
+
 #### Irradiance Simulator
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance%20Solar%20IR.png?raw=true)
+
+*Solar Irradiance and Earth IR Irradiance*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance%20Earth%20ALbedo.png?raw=true)
+
+*Earth Albedo Irradiance*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance%20Lunar%20Albedo.png?raw=true)
+
+*Lunar Albedo Irradiance*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance%20Lunar%20IR.png?raw=true)
+
+*Lunar IR Irradiance*
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance-Simulator.png)
 
@@ -122,11 +144,35 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 
 *Solar Irradiance Progression*
 
+#### Earth Albedo Irradiance Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Earth%20Albedo%20Irradiance%20Lunar%20Surface.png?raw=true)
+
+*Earth Albedo Irradiance Progression*
+
 #### Solar Elevation Progression
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Elevation%20Lunar%20Surface.png?raw=true)
 
 *Solar Elevation Progression*
+
+#### Earth Elevation Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Earth%20Elevation%20Lunar%20Surface.png?raw=true)
+
+*Earth Elevation Progression*
+
+#### Horizontal Irradiance on the Lunar SUrface in the visible spectrum progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Horizontal%20Solar%20Irradiance%20Lunar%20Surface.png?raw=true)
+
+*Horizontal Irradiance on the Lunar SUrface in the visible spectrum progression*
+
+#### Temperature Simulation Lunar Surface
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Lunar%20Surface%20Temperature.png?raw=true)
+
+*Temperature Simulation Lunar Surface*
 
 #### Solar Array Mounting and Tracking Systems employing Tracking Systems
 
@@ -136,7 +182,35 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 
 *Solar Incidence Angle Progression employing tracking systems*
 
-##### Solar Cell Degradation Simulation
+##### Solar Irradiance Analysis
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Array%20Mounting%20and%20Tracking%20Study.png?raw=true)
+
+*Solar Irradiance Analysis*
+
+#### Solar Cell Temperature Progression
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/SOlar%20Array%20Temperature%20SImulation.png?raw=true)
+
+*Solar Cell Temperature Progression*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/SOlar%20Array%20Temperature%20SImulation%202.png?raw=true)
+
+*Solar Cell Temperature Progression*
+
+##### Temperature Progression employing Thermal Management Systems
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Array%20Thermal%20Management.png?raw=true)
+
+*Temperature Progression employing Thermal Management Systems*
+
+##### Thermal Management System Study
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Solar%20Array%20Thermal%20Management%20Study.png?raw=true)
+
+*Thermal Management System Study*
+
+#### Solar Cell Degradation Simulation
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/assets/53335971/a6f1f468-623b-4ebc-bc91-2da448a4da62)
 
