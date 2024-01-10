@@ -52,6 +52,20 @@ A part of the LES3 software is a simulator for the environmental conditions on t
 
 Master's Thesis: ![Development of a simulator for the operational conditions of photovoltaic power generators on the lunar surface and implications of environmental conditions to photovoltaic generator design and optimisation](https://www.researchgate.net/publication/377111324_Development_of_a_simulator_for_the_operational_conditions_of_photovoltaic_power_generators_on_the_lunar_surface_and_implications_of_environmental_conditions_to_photovoltaic_generator_design_and_optimi)
 
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Geometrical-Simulator.png)
+*Geometrical Simulator*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Irradiance-Simulator.png)
+*Irradiance Simulator*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Particle-Radiation-and-Solar-Cell-degradation-Model.png)
+*Particle Radiation and Solar Cell Degradation Model*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Thermal-Model-and-Thermal-Control-System-Model.png)
+*Thermal Model and Thermal Control System Model*
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Environmental-Model/Software-Structure-of-the-Environmental-Simulation-Software.png)
+*Software Structure of the Environmental Simulation Software*
 
 ## Contact Details
 
