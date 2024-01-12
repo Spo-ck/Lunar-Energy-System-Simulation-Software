@@ -4,6 +4,7 @@ The Lunar Energy System Simulation Software LES3 has been developed as a modular
 Irradiance on the lunar surface is simulated based on a kepler orbit simulator and reference frames as direct solar irradiance, earth albedo & infrared irradiance and lunar albedo & infrared irradiance. The simulation of solar cells and batteries is based on the datasheet parameters of all space certifyed solar cells and batteries currently available, that have been integrated into dedicated databases. These are employed by single solar cell and battery models, which are themselves employed in the simulation of solar arrays and battery packs. Into the simulation of solar arrays, also the simulation of solar array tracking and shadowing has been integrated. These system models can in the next step be imported into the simulation of DC/DC-Converters. Eight converter topologies have been implemented, including space standard topologies such as Weinberg and S3R. Different combinations of feedforward-, proportional-, integrative- and differential-control, as well as maximum power point tracking and multi-domain-control algorithms have been implemented into the simulator. The load model is based on a reference circuit and allows to simulate both, static and time-series loads. In addition to this, a Main- BUS-Capacitor class has been implemented. The Main-BUS class allows to simulate a DC Main-BUS consisting out of a flexible combination of different DC/DC converters, a Main-BUS-Capacitor and directly connected loads. In addition to this, the energy grid class alows to simulate multiple interconnected DC Main-BUSes.
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/LES3Topology.png?raw=true)
+*Possible topology of a lunar EPS system*
 
 ## Content
 1. ![Product Features](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#product-features)
@@ -213,6 +214,9 @@ Master's Thesis: [Development of a simulator for the operational conditions of p
 ## Lunar Energy System Simulation Software
 
 The LES3 software is currently a part of my PHD, and therefore I cannot yet make it available for public use.
+
+![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/LES3Topology.png?raw=true)
+*Possible topology of a lunar EPS system*
 
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Software%20Overview%20LES3.png)
 
