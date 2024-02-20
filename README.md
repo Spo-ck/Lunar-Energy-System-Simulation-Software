@@ -8,9 +8,9 @@ Irradiance on the lunar surface is simulated based on a kepler orbit simulator a
 
 ## Content
 1. ![Product Features](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#product-features)
-2. ![Environmental Model](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#environmental-model)
-3. ![Lunar Energy System Simulation Software](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#lunar-energy-system-simulation-software)
-4. ![Contact Details](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#contact-details)
+2. ![Contact Details](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#contact-details)
+3. ![Environmental Model](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#environmental-model)
+4. ![Lunar Energy System Simulation Software](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/tree/main#lunar-energy-system-simulation-software)
 
 ## Product Features
 
@@ -47,6 +47,12 @@ Domain-Control
 
 ➔ Regenerative Fuel Cell and Nuclear Reactor models, as well as NASA SPICE will be integrated into a later
 version
+
+## Contact Details
+
+If you have any questions, feel free to contact me.
+
+Mail: jan@zuenkler.eu
 
 ## Environmental Model
 
@@ -221,9 +227,3 @@ The LES3 software is currently a part of my PHD, and therefore I cannot yet make
 ![image](https://github.com/Spo-ck/Lunar-Energy-System-Simulation-Software/blob/main/Visualization/Software%20Overview%20LES3.png)
 
 *Software Structure of the LES3 Software*
-
-## Contact Details
-
-If you have any questions, feel free to contact me.
-
-Mail: jan@zuenkler.eu
